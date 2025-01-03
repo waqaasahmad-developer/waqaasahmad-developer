@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waqaasahmad-developer.
+- 👋 Hi, I’m @waqasahmad-developer.
 - 👀 I’m interested in Artifical intelligence.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
